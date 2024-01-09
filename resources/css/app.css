@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.my-select {
+    width: 250px; /* 或者你想要的任何宽度 */
+}
